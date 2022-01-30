@@ -1,5 +1,5 @@
-The code will be released after the paper is accepted
-Model summary is shown below:
+The code will be released after the paper is accepted  
+Model summary is shown below (using pytorch-summary package):
 ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
 ================================================================  
