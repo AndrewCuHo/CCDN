@@ -1,5 +1,5 @@
 The code will be released after the paper is accepted
-# Model summary is shown below:
+Model summary is shown below:
 ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
 ================================================================
