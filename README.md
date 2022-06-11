@@ -1,4 +1,23 @@
-The code will be released after the paper is accepted  
+# CCDN: [Cocktail Causal Container]
+This is a PyTorch implementation of iFormer proposed by our paper "End to End Video based Cocktail Causal Container for Blood Pressure Estimation and Glucose Prediction".
+
+## Blood Pressure Estimation AND Blood Glucose Prediction
+
+### Main results on PPG-BP
+
+| Model      |  acc_bp@1 | acc_bg@1| Model |
+| :---       |     :---: |  :---:  |  :---:  |
+| Cocktail Causal Container  |   75.0 |  91.7  | soon |
+
+### Main results on Clinical
+
+| Model      | overall  rmse_bg | acc_bp@1 | acc_bg@1| Model |
+| :---       |     :---: |  :---:  |  :---:  |
+| Cocktail Causal Container  |   0.766 |   89.0 |  89.0  | soon |
+
+
+**The code and model will be released after the paper is accepted.**
+
 Model summary is shown below (using pytorch-summary package):
 ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
