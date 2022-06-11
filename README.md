@@ -7,7 +7,7 @@ This is a PyTorch implementation of Cocktail Causal Container proposed by our pa
 
 | Model      |  acc_bp@1 | acc_bg@1| Model |
 | :---       |     :---: |  :---:  |  :---:  |
-| Cocktail Causal Container  |   75.0 |  91.7  | soon |
+| Cocktail Causal Container  |   75.0 |  91.7  | soon ||
 
 ### Main results on Clinical
 
