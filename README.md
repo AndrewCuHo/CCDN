@@ -1,7 +1,7 @@
 # CCDN: [Cocktail Causal Container]
 This is a PyTorch implementation of Cocktail Causal Container proposed by our paper "End to End Video based Cocktail Causal Container for Blood Pressure Estimation and Glucose Prediction".
 
-## Blood Pressure Estimation AND Blood Glucose Prediction
+## Blood Pressure Estimation and Blood Glucose Prediction
 
 ### Main results on PPG-BP
 
