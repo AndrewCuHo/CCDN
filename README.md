@@ -17,7 +17,7 @@ This is a PyTorch implementation of Cocktail Causal Container proposed by our pa
 | Cocktail Causal Container  |   0.766 |   89.0 |  89.0  | soon |
 
 
-**The code and model will be released after the paper is accepted.**
+**The code and model will be released soon.**
 
 Model summary is shown below (using pytorch-summary package):
 ----------------------------------------------------------------
